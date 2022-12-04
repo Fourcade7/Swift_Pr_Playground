@@ -3,7 +3,7 @@
 import Foundation
 
 var dvalue:String
-var greeting = "Hello, playground"
+var greeting = "Hello, playground7"
 var name:String="Fourcade7"
 let surname:String="Aminov"
 let favoritenumber:Int?=nil

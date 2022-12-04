@@ -53,7 +53,7 @@ for i in stride(from: 50, through: 10 , by: -10){
     print(i)
 }
 for i in (1...5).reversed(){
-    print("Reversed")
+    print("Reversed7")
     print(i)
 }
 
