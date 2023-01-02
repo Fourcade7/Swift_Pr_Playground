@@ -5,5 +5,6 @@
         <page name='2_Math_Operators'/>
         <page name='3_Control_Flow'/>
         <page name='4_Functions'/>
+        <page name='5_Class_and_Structs'/>
     </pages>
 </playground>
