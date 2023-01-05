@@ -8,7 +8,9 @@ var name:String="Fourcade7"
 let surname:String="Aminov"
 let favoritenumber:Int?=nil
 let height:Double=1.93
+let randomnumber=Int.random(in: 0...10)
 
 print(height)
 print("\(favoritenumber) this is nulll")
+print(randomnumber)
 

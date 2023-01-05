@@ -34,12 +34,12 @@ let yandex=Yandex()
 
 class Zoom{
     var name:String
-    init(name:String){
+    init(_ name:String){
         self.name=name
     }
 }
 
-let zoom=Zoom(name: "Fourcade")
+let zoom=Zoom("Fourcade")
 print(zoom.name)
 
 
