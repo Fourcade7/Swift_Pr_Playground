@@ -7,5 +7,7 @@
         <page name='4_Functions'/>
         <page name='5_Class_and_Structs'/>
         <page name='6_Class_Inheritance'/>
+        <page name='7_Class_and_Constructors'/>
+        <page name='8_Collections_Array'/>
     </pages>
 </playground>
